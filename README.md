@@ -19,6 +19,19 @@
 10. [Using Yolo9000](#using-yolo9000)
 11. [How to use Yolo as DLL and SO libraries](#how-to-use-yolo-as-dll-and-so-libraries)
 
+0. [Improvements in this repository](#improvements-in-this-repository)
+1. [How to use](#how-to-use)  如何使用
+2. [How to compile on Linux](#how-to-compile-on-linux) 如何在 linux 上编译
+3. [How to compile on Windows](#how-to-compile-on-windows)  如何在Windows上编译
+4. [How to train (Pascal VOC Data)](#how-to-train-pascal-voc-data) 如何训练 (pascal voc 数据)
+5. [How to train (to detect your custom objects)](#how-to-train-to-detect-your-custom-objects)  如何训练 (检测自定义对象)
+6. [When should I stop training](#when-should-i-stop-training)  我应该什么时候停止训练
+7. [How to calculate mAP on PascalVOC 2007](#how-to-calculate-map-on-pascalvoc-2007)  如何计算PascalVOC2007的 mAP
+8. [How to improve object detection](#how-to-improve-object-detection)  如何改进对象检测
+9. [How to mark bounded boxes of objects and create annotation files](#how-to-mark-bounded-boxes-of-objects-and-create-annotation-files)  如何标记有界的对象框并创建批注文件
+10. [Using Yolo9000](#using-yolo9000)  使用 yolo9000
+11. [How to use Yolo as DLL](#how-to-use-yolo-as-dll)  如何使用 yolo 作为动态库 dll
+
 
 
 |  ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png) | &nbsp; ![map_time](https://user-images.githubusercontent.com/4096485/52151356-e5d4a380-2683-11e9-9d7d-ac7bc192c477.jpg) mAP@0.5 (AP50) https://pjreddie.com/media/files/papers/YOLOv3.pdf |
