@@ -6,18 +6,7 @@
 * [Requirements](#requirements)
 * [Pre-trained models](#pre-trained-models)
 * [Explanations in issues](https://github.com/AlexeyAB/darknet/issues?q=is%3Aopen+is%3Aissue+label%3AExplanations)
-0. [Improvements in this repository](#improvements-in-this-repository)
-1. [How to use](#how-to-use)
-2. [How to compile on Linux](#how-to-compile-on-linux)
-3. [How to compile on Windows](#how-to-compile-on-windows)
-4. [How to train (Pascal VOC Data)](#how-to-train-pascal-voc-data)
-5. [How to train (to detect your custom objects)](#how-to-train-to-detect-your-custom-objects)
-6. [When should I stop training](#when-should-i-stop-training)
-7. [How to calculate mAP on PascalVOC 2007](#how-to-calculate-map-on-pascalvoc-2007)
-8. [How to improve object detection](#how-to-improve-object-detection)
-9. [How to mark bounded boxes of objects and create annotation files](#how-to-mark-bounded-boxes-of-objects-and-create-annotation-files)
-10. [Using Yolo9000](#using-yolo9000)
-11. [How to use Yolo as DLL and SO libraries](#how-to-use-yolo-as-dll-and-so-libraries)
+
 
 0. [Improvements in this repository](#improvements-in-this-repository)
 1. [How to use](#how-to-use)  如何使用
